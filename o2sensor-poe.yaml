@@ -47,7 +47,7 @@ ethernet:
 # captive_portal:
 
 dashboard_import:
-  package_import_url: github://coricidin12/o2sensor/o2sensor.yaml@main
+  package_import_url: github://coricidin12/o2sensor/o2sensor-poe.yaml@main
   import_full_config: true
 
 i2c:
