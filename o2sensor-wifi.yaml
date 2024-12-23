@@ -47,7 +47,7 @@ wifi:                             #WiFi cannot be active at the same time as Eth
 captive_portal:
 
 dashboard_import:
-  package_import_url: github://coricidin12/o2sensor/o2sensor.yaml@main
+  package_import_url: github://coricidin12/o2sensor/o2sensor-wifi.yaml@main
   import_full_config: true
 
 i2c:
